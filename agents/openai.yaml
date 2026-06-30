@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross-border Product Research"
+  short_description: "Turn overseas user evidence into product research reports."
+  default_prompt: "Analyze these overseas user comments and generate a cross-border product decision report."
